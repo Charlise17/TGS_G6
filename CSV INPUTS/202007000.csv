@@ -1,0 +1,121 @@
+Level,Degree,Term,coursename,courseID,courseType,credithours,grade
+D,PhDBI,1,Biophysics,BIO818,Major,4,99
+D,PhDBI,1,Genetic Engineering,GEN682,Major,4,78
+D,PhDBI,1,Ecology,ECO697,Major,2,99
+D,PhDBI,1,Molecular Biology,MOL628,Major,4,89
+D,PhDBI,1,Biological Chemistry,BIO998,Major,2,98
+D,PhDBI,1,Design of Reinforced Concrete Structures,DES822,Minor,2,94
+D,PhDBI,2,Cell Biology,CEL803,Major,3,94
+D,PhDBI,2,Human Anatomy,HUM290,Major,4,90
+D,PhDBI,2,Developmental Biology,DEV854,Major,1,81
+D,PhDBI,2,Stem Cell Biology,STE622,Major,3,89
+D,PhDBI,3,Physiology,PHY410,Major,4,79
+D,PhDBI,3,Microbial Ecology,MIC133,Major,1,99
+D,PhDBI,3,Endocrinology,END629,Major,3,88
+D,PhDBI,3,Systems Biology,SYS490,Major,4,86
+D,PhDBI,3,Biochemistry,BIO995,Major,4,85
+D,PhDBI,3,General Biology,GEN603,Major,3,94
+D,PhDBI,3,Evolutionary Ecology,EVO852,Major,2,79
+D,PhDBI,3,Tunneling and Underground Engineering,TUN842,Minor,4,94
+D,PhDBI,4,Genetics,GEN747,Major,2,94
+D,PhDBI,4,Plant Physiology,PLA291,Major,2,87
+D,PhDBI,4,Bioethics,BIO598,Major,2,76
+D,PhDBI,4,Environmental Biology,ENV454,Major,1,96
+D,PhDBI,4,Cancer Biology,CAN345,Major,1,97
+D,PhDBI,4,Thermodynamics,THE970,Minor,2,96
+D,PhDBI,5,Marine Biology,MAR778,Major,2,98
+D,PhDBI,5,Structural Biology,STR830,Major,3,85
+D,PhDBI,5,Pharmacology,PHA178,Major,1,75
+D,PhDBI,5,Advanced Thermodynamics,ADV268,Minor,2,97
+D,PhDBI,5,Classical Music Appreciation,CLA110,Minor,2,98
+D,PhDBI,6,Evolutionary Biology,EVO611,Major,3,90
+D,PhDBI,6,Biotechnology in Agriculture,BIO326,Major,4,78
+D,PhDBI,6,Forensic Biology,FOR537,Major,1,76
+D,PhDBI,6,Studio Art,STU223,Minor,2,97
+D,PhDBI,6,Electronic Music Production,ELE967,Minor,3,97
+D,PhDBI,7,Neurobiology,NEU555,Major,4,75
+D,PhDBI,7,Computational Biology,COM774,Major,3,100
+D,PhDBI,7,Medical Microbiology,MED358,Major,4,78
+D,PhDBI,7,Biotechnology,BIO727,Major,1,84
+D,PhDBI,7,Plant Biology,PLA110,Major,2,83
+D,PhDBI,7,Digital Humanities,DIG906,Minor,1,75
+G,MSBI,1,Genetic Engineering,GEN543,Major,1,82
+G,MSBI,1,Marine Biology,MAR415,Major,1,82
+G,MSBI,1,Biochemistry,BIO623,Major,3,97
+G,MSBI,1,Systems Biology,SYS497,Major,2,82
+G,MSBI,1,Evolutionary Biology,EVO138,Major,1,78
+G,MSBI,1,Biophysics,BIO778,Major,3,100
+G,MSBI,1,Molecular Genetics,MOL480,Major,3,81
+G,MSBI,1,Physiology,PHY396,Major,1,82
+G,MSBI,1,Neurobiology,NEU335,Major,3,87
+G,MSBI,1,Fluid Dynamics,FLU916,Minor,3,86
+G,MSBI,1,Environmental Chemistry,ENV729,Minor,4,75
+G,MSBI,1,Astronautics,AST430,Minor,2,76
+G,MSBI,2,Human Anatomy,HUM653,Major,2,88
+G,MSBI,2,Biological Chemistry,BIO787,Major,4,100
+G,MSBI,2,Endocrinology,END669,Major,1,90
+G,MSBI,2,Pharmacology,PHA146,Major,1,83
+G,MSBI,2,Popular Music Studies,POP760,Minor,4,89
+G,MSBI,2,Advanced Thermodynamics,ADV589,Minor,4,87
+G,MSBI,2,Classical Music Appreciation,CLA429,Minor,1,92
+G,MSBI,2,Theatre History,THE352,Minor,1,76
+G,MSBI,2,Photography,PHO976,Minor,1,94
+G,MSBI,3,Structural Biology,STR107,Major,2,99
+G,MSBI,3,Molecular Biology,MOL267,Major,1,77
+G,MSBI,3,Plant Physiology,PLA523,Major,2,92
+G,MSBI,3,Environmental Biology,ENV664,Major,4,83
+G,MSBI,3,Bioethics,BIO694,Major,2,94
+G,MSBI,3,Medical Microbiology,MED119,Major,1,86
+G,MSBI,3,Plant Biology,PLA297,Major,2,90
+G,MSBI,3,Computational Biology,COM449,Major,1,84
+G,MSBI,3,Biology of Aging,BIO789,Major,2,80
+G,MSBI,3,Developmental Biology,DEV139,Major,3,94
+G,MSBI,3,Biotechnology,BIO152,Major,4,79
+G,MSBI,3,Ecology,ECO305,Major,3,87
+G,MSBI,4,Bioinformatics,BIO702,Major,4,88
+G,MSBI,4,Biotechnology in Agriculture,BIO969,Major,3,92
+G,MSBI,4,Microbiology,MIC325,Major,4,90
+G,MSBI,4,Stem Cell Biology,STE367,Major,3,85
+G,MSBI,4,General Biology,GEN483,Major,1,91
+G,MSBI,4,Microbial Ecology,MIC269,Major,2,77
+G,MSBI,4,Cancer Biology,CAN283,Major,3,90
+U,BSBI,1,Microbial Ecology,MIC592,Major,3,83
+U,BSBI,1,General Biology,GEN109,Major,2,99
+U,BSBI,1,Molecular Biology,MOL667,Major,1,83
+U,BSBI,1,Systems Biology,SYS651,Major,2,85
+U,BSBI,1,Plant Physiology,PLA283,Major,4,95
+U,BSBI,1,Pharmacology,PHA220,Major,4,98
+U,BSBI,1,Music Therapy,MUS123,Minor,1,92
+U,BSBI,2,Genomics,GEN618,Major,4,84
+U,BSBI,2,Biological Chemistry,BIO199,Major,2,83
+U,BSBI,2,Biochemistry,BIO738,Major,1,77
+U,BSBI,2,Physiology,PHY790,Major,1,89
+U,BSBI,2,Investment Theory,INV904,Minor,4,86
+U,BSBI,2,Nuclear Physics,NUC770,Minor,3,87
+U,BSBI,3,Plant Biology,PLA782,Major,1,96
+U,BSBI,3,Human Anatomy,HUM867,Major,3,94
+U,BSBI,3,Structural Biology,STR217,Major,4,99
+U,BSBI,3,Genetic Engineering,GEN367,Major,1,91
+U,BSBI,3,Bioengineering,BIO637,Major,1,95
+U,BSBI,3,Marine Biology,MAR619,Major,4,93
+U,BSBI,3,Aircraft Maintenance,AIR633,Minor,2,95
+U,BSBI,4,Medical Microbiology,MED283,Major,2,95
+U,BSBI,4,Cell Biology,CEL912,Major,1,86
+U,BSBI,4,Environmental Biology,ENV333,Major,2,95
+U,BSBI,5,Forensic Biology,FOR372,Major,2,76
+U,BSBI,5,Biophysics,BIO919,Major,2,82
+U,BSBI,5,Endocrinology,END289,Major,3,84
+U,BSBI,5,Economics of Technology,ECO665,Minor,3,85
+U,BSBI,5,Jazz Studies,JAZ596,Minor,1,89
+U,BSBI,6,Bioinformatics,BIO563,Major,4,91
+U,BSBI,6,Development Economics,DEV200,Minor,4,82
+U,BSBI,6,Choral Conducting,CHO197,Minor,3,94
+U,BSBI,7,Microbiology,MIC959,Major,2,95
+U,BSBI,7,Neurobiology,NEU379,Major,4,98
+U,BSBI,7,Ecology,ECO191,Major,1,88
+U,BSBI,7,Evolutionary Ecology,EVO989,Major,1,75
+U,BSBI,7,Biotechnology in Agriculture,BIO649,Major,1,94
+U,BSBI,7,Biology of Aging,BIO770,Major,2,96
+U,BSBI,7,Molecular Genetics,MOL601,Major,1,87
+U,BSBI,8,Computational Biology,COM271,Major,4,89
+U,BSBI,8,Animal Behavior,ANI512,Major,4,78

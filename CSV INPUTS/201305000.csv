@@ -1,0 +1,41 @@
+Level,Degree,Term,coursename,courseID,courseType,credithours,grade
+G,MSFA,1,Performance Art,PER156,Major,2,94
+G,MSFA,1,Print Design,PRI193,Major,3,91
+G,MSFA,1,Public Art,PUB872,Major,2,85
+G,MSFA,1,Fashion Design,FAS240,Major,2,79
+G,MSFA,1,Photography,PHO769,Major,2,89
+G,MSFA,1,Art History,ART242,Major,3,83
+G,MSFA,2,Contemporary Art,CON325,Major,3,76
+G,MSFA,2,Printmaking,PRI973,Major,1,91
+G,MSFA,2,Ceramics,CER729,Major,1,75
+G,MSFA,2,Sculpture,SCU404,Major,4,92
+G,MSFA,2,Photography Techniques,PHO912,Major,3,92
+G,MSFA,2,Studio Art,STU554,Major,3,81
+G,MSFA,2,Art and Architecture,ART822,Major,3,94
+G,MSFA,2,Color Theory,COL940,Major,3,90
+G,MSFA,2,Art in the 21st Century,ART559,Major,2,76
+G,MSFA,2,Art and Technology,ART556,Major,3,99
+G,MSFA,2,Philosophy of Literature,PHI864,Minor,1,81
+G,MSFA,2,Combustion Engineering,COM646,Minor,2,81
+G,MSFA,2,Rocketry,ROC596,Minor,3,88
+G,MSFA,3,Digital Art,DIG608,Major,4,100
+G,MSFA,3,Graphic Design,GRA181,Major,2,90
+G,MSFA,3,Painting,PAI934,Major,3,81
+G,MSFA,3,Visual Art and Society,VIS915,Major,4,89
+G,MSFA,3,Art and Culture,ART574,Major,1,76
+G,MSFA,3,Modern Art,MOD125,Major,1,85
+G,MSFA,3,Museum Studies,MUS479,Major,1,98
+G,MSFA,3,Installation Art,INS913,Major,1,90
+G,MSFA,3,Fine Art Foundations,FIN663,Major,2,91
+G,MSFA,3,Film and Media Arts,FIL357,Major,2,91
+G,MSFA,3,Art Exhibitions,ART265,Major,2,82
+G,MSFA,3,Art Education,ART247,Major,1,94
+G,MSFA,3,Biochemistry,BIO422,Minor,1,87
+G,MSFA,3,Biology of Aging,BIO556,Minor,2,95
+G,MSFA,3,Modern Poetry,MOD179,Minor,1,86
+G,MSFA,4,Art Theory,ART701,Major,4,96
+G,MSFA,4,Art Criticism,ART439,Major,1,95
+G,MSFA,4,Drawing,DRA723,Major,2,83
+G,MSFA,4,Mixed Media Art,MIX977,Major,1,90
+G,MSFA,4,Financial Markets,FIN796,Minor,4,76
+G,MSFA,4,Soil Mechanics,SOI455,Minor,4,89

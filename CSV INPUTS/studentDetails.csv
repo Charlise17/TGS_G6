@@ -1,0 +1,708 @@
+Serial,stdID,Name,College,Department,Level,Degree,Major,Minor,Term of Major,Term of Minor
+1,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Performance Art,,7,
+2,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Graphic Design,,3,
+3,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Museum Studies,,8,
+4,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Art Theory,,1,
+5,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Installation Art,,4,
+6,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Film and Media Arts,,4,
+7,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Ceramics,,6,
+8,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Sculpture,,6,
+9,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Contemporary Art,,6,
+10,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Electronic Music Production,Electronic Music Production,,2
+11,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Foundation Engineering,Foundation Engineering,,2
+12,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Jazz Studies,Jazz Studies,,2
+13,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Fine Art Foundations,,2,
+14,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Mixed Media Art,,6,
+15,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Color Theory,,4,
+16,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Visual Art and Society,,3,
+17,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Medical Microbiology,Medical Microbiology,,3
+18,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Painting,,8,
+19,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Studio Art,,7,
+20,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Art in the 21st Century,,6,
+21,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Digital Art,,8,
+22,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Art Criticism,,8,
+23,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Art History,,4,
+24,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Art Exhibitions,,1,
+25,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Drawing,,7,
+26,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Fashion Design,,8,
+27,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Art Education,,5,
+28,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Economics of Innovation,Economics of Innovation,,4
+29,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Art and Culture,,2,
+30,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Printmaking,,3,
+31,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Music Therapy,Music Therapy,,5
+32,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Science Fiction,Science Fiction,,5
+33,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Biotechnology in Agriculture,Biotechnology in Agriculture,,5
+34,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Modern Art,,5,
+35,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Art and Technology,,5,
+36,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Art and Architecture,,7,
+37,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Public Art,,3,
+38,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Photography Techniques,,2,
+39,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Print Design,,3,
+40,202200000,Emily Reese Johnson,Arts,Fine Arts,D,PhDFA,Photography,,3,
+41,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Art Exhibitions,,1,
+42,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Art Theory,,1,
+43,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Classical Music Appreciation,Classical Music Appreciation,,1
+44,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Art and Culture,,2,
+45,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Fine Art Foundations,,2,
+46,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Photography Techniques,,2,
+47,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Advanced Fluid Dynamics,Advanced Fluid Dynamics,,2
+48,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Aerodynamics,Aerodynamics,,2
+49,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Visual Art and Society,,3,
+50,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Public Art,,3,
+51,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Print Design,,3,
+52,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Graphic Design,,3,
+53,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Printmaking,,3,
+54,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Photography,,3,
+55,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Film and Media Arts,,4,
+56,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Installation Art,,4,
+57,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Art History,,4,
+58,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Color Theory,,4,
+59,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Art Education,,5,
+60,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Art and Technology,,5,
+61,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Modern Art,,5,
+62,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Ceramics,,6,
+63,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Mixed Media Art,,6,
+64,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Art in the 21st Century,,6,
+65,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Sculpture,,6,
+66,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Contemporary Art,,6,
+67,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Studio Art,,7,
+68,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Drawing,,7,
+69,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Performance Art,,7,
+70,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Art and Architecture,,7,
+71,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Business Communication,Business Communication,,7
+72,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Comparative Literature,Comparative Literature,,7
+73,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Design of Reinforced Concrete Structures,Design of Reinforced Concrete Structures,,7
+74,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Genomics,Genomics,,7
+75,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Museum Studies,,8,
+76,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Digital Art,,8,
+77,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Art Criticism,,8,
+78,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Fashion Design,,8,
+79,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Painting,,8,
+80,202200000,Emily Reese Johnson,Arts,Fine Arts,U,BSFA,Ethnomusicology,Ethnomusicology,,8
+81,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Biophysics,,5,
+82,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Genetic Engineering,,3,
+83,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Ecology,,7,
+84,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Molecular Biology,,1,
+85,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Biological Chemistry,,2,
+86,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Design of Reinforced Concrete Structures,Design of Reinforced Concrete Structures,,1
+87,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Cell Biology,,4,
+88,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Human Anatomy,,3,
+89,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Developmental Biology,,3,
+90,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Stem Cell Biology,,4,
+91,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Physiology,,2,
+92,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Microbial Ecology,,1,
+93,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Endocrinology,,5,
+94,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Systems Biology,,1,
+95,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Biochemistry,,2,
+96,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,General Biology,,1,
+97,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Evolutionary Ecology,,7,
+98,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Tunneling and Underground Engineering,Tunneling and Underground Engineering,,3
+99,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Genetics,,4,
+100,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Plant Physiology,,1,
+101,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Bioethics,,3,
+102,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Environmental Biology,,4,
+103,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Cancer Biology,,4,
+104,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Thermodynamics,Thermodynamics,,4
+105,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Marine Biology,,3,
+106,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Structural Biology,,3,
+107,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Pharmacology,,1,
+108,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Advanced Thermodynamics,Advanced Thermodynamics,,2
+109,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Classical Music Appreciation,Classical Music Appreciation,,2
+110,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Evolutionary Biology,,1,
+111,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Biotechnology in Agriculture,,7,
+112,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Forensic Biology,,5,
+113,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Studio Art,Studio Art,,6
+114,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Electronic Music Production,Electronic Music Production,,6
+115,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Neurobiology,,7,
+116,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Computational Biology,,8,
+117,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Medical Microbiology,,4,
+118,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Biotechnology,,3,
+119,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Plant Biology,,3,
+120,202007000,Emily Parker Garcia,Science,Biology,D,PhDBI,Digital Humanities,Digital Humanities,,7
+121,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Genetic Engineering,,3,
+122,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Marine Biology,,3,
+123,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Biochemistry,,2,
+124,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Systems Biology,,1,
+125,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Evolutionary Biology,,1,
+126,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Biophysics,,5,
+127,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Molecular Genetics,,7,
+128,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Physiology,,2,
+129,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Neurobiology,,7,
+130,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Fluid Dynamics,Fluid Dynamics,,1
+131,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Environmental Chemistry,Environmental Chemistry,,1
+132,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Astronautics,Astronautics,,1
+133,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Human Anatomy,,3,
+134,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Biological Chemistry,,2,
+135,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Endocrinology,,5,
+136,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Pharmacology,,1,
+137,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Popular Music Studies,Popular Music Studies,,2
+138,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Advanced Thermodynamics,Advanced Thermodynamics,,2
+139,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Classical Music Appreciation,Classical Music Appreciation,,2
+140,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Theatre History,Theatre History,,2
+141,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Photography,Photography,,2
+142,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Structural Biology,,3,
+143,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Molecular Biology,,1,
+144,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Plant Physiology,,1,
+145,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Environmental Biology,,4,
+146,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Bioethics,,3,
+147,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Medical Microbiology,,4,
+148,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Plant Biology,,3,
+149,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Computational Biology,,8,
+150,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Biology of Aging,,7,
+151,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Developmental Biology,,3,
+152,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Biotechnology,,3,
+153,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Ecology,,7,
+154,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Bioinformatics,,6,
+155,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Biotechnology in Agriculture,,7,
+156,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Microbiology,,7,
+157,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Stem Cell Biology,,4,
+158,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,General Biology,,1,
+159,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Microbial Ecology,,1,
+160,202007000,Emily Parker Garcia,Science,Biology,G,MSBI,Cancer Biology,,4,
+161,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Microbial Ecology,,1,
+162,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,General Biology,,1,
+163,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Molecular Biology,,1,
+164,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Systems Biology,,1,
+165,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Plant Physiology,,1,
+166,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Pharmacology,,1,
+167,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Music Therapy,Music Therapy,,1
+168,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Genomics,,2,
+169,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Biological Chemistry,,2,
+170,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Biochemistry,,2,
+171,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Physiology,,2,
+172,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Investment Theory,Investment Theory,,2
+173,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Nuclear Physics,Nuclear Physics,,2
+174,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Plant Biology,,3,
+175,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Human Anatomy,,3,
+176,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Structural Biology,,3,
+177,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Genetic Engineering,,3,
+178,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Bioengineering,,3,
+179,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Marine Biology,,3,
+180,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Aircraft Maintenance,Aircraft Maintenance,,3
+181,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Medical Microbiology,,4,
+182,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Cell Biology,,4,
+183,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Environmental Biology,,4,
+184,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Forensic Biology,,5,
+185,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Biophysics,,5,
+186,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Endocrinology,,5,
+187,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Economics of Technology,Economics of Technology,,5
+188,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Jazz Studies,Jazz Studies,,5
+189,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Bioinformatics,,6,
+190,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Development Economics,Development Economics,,6
+191,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Choral Conducting,Choral Conducting,,6
+192,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Microbiology,,7,
+193,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Neurobiology,,7,
+194,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Ecology,,7,
+195,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Evolutionary Ecology,,7,
+196,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Biotechnology in Agriculture,,7,
+197,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Biology of Aging,,7,
+198,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Molecular Genetics,,7,
+199,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Computational Biology,,8,
+200,202007000,Emily Parker Garcia,Science,Biology,U,BSBI,Animal Behavior,,8,
+201,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Chemical Bonding,,7,
+202,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Advanced Organic Synthesis,,4,
+203,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Catalysis,,6,
+204,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Chemical Toxicology,,6,
+205,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Chemical Data Analysis,,1,
+206,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Solid-State Chemistry,,2,
+207,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Analytical Chemistry,,3,
+208,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Microbiology,Microbiology,,2
+209,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Digital Art,Digital Art,,2
+210,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Surface Chemistry,,6,
+211,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Computational Chemistry,,3,
+212,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Chemical Engineering Principles,,3,
+213,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Quantum Chemistry,,5,
+214,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Organic Chemistry,,3,
+215,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Photochemistry,,6,
+216,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Environmental Chemistry,,4,
+217,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Laboratory Techniques,,5,
+218,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Reaction Mechanisms,,1,
+219,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Electrochemistry,,2,
+220,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Chemical Kinetics,,1,
+221,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Inorganic Chemistry,,6,
+222,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Industrial Chemistry,,5,
+223,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Water Chemistry,,5,
+224,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Biotechnology in Agriculture,Biotechnology in Agriculture,,5
+225,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Financial Accounting,Financial Accounting,,5
+226,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Music Therapy,Music Therapy,,5
+227,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Applied Environmental Chemistry,,8,
+228,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,General Chemistry,,4,
+229,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Instrumental Analysis,,1,
+230,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Engineering Dynamics,Engineering Dynamics,,6
+231,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Animal Behavior,Animal Behavior,,6
+232,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Biochemistry,,7,
+233,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Physical Chemistry,,5,
+234,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Chemical Thermodynamics,,5,
+235,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Chemical Safety,,4,
+236,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Econometrics,Econometrics,,7
+237,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Medicinal Chemistry,,3,
+238,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Process Control in Chemistry,,7,
+239,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Materials Chemistry,,8,
+240,202001000,Michael Alex Johnson,Science,Chemistry,G,MSCH,Nano-Chemistry,,7,
+241,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Chemical Kinetics,,1,
+242,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Instrumental Analysis,,1,
+243,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Reaction Mechanisms,,1,
+244,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Installation Art,Installation Art,,1
+245,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Solid-State Chemistry,,2,
+246,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Electrochemistry,,2,
+247,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Organometallic Chemistry,,2,
+248,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Advanced Materials for Construction,Advanced Materials for Construction,,2
+249,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Medicinal Chemistry,,3,
+250,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Computational Chemistry,,3,
+251,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Analytical Chemistry,,3,
+252,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Organic Chemistry,,3,
+253,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Art and Architecture,Art and Architecture,,3
+254,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Astronautics,Astronautics,,3
+255,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Advanced Organic Synthesis,,4,
+256,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,General Chemistry,,4,
+257,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Pharmaceutical Chemistry,,4,
+258,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Environmental Chemistry,,4,
+259,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Chemical Safety,,4,
+260,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,World Literature,World Literature,,4
+261,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Industrial Chemistry,,5,
+262,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Quantum Chemistry,,5,
+263,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Physical Chemistry,,5,
+264,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Laboratory Techniques,,5,
+265,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Chemical Thermodynamics,,5,
+266,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Visual Art and Society,Visual Art and Society,,5
+267,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Chemical Toxicology,,6,
+268,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Surface Chemistry,,6,
+269,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Photochemistry,,6,
+270,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Inorganic Chemistry,,6,
+271,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Catalysis,,6,
+272,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Polymer Chemistry,,7,
+273,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Green Chemistry,,7,
+274,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Chemical Bonding,,7,
+275,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Nano-Chemistry,,7,
+276,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Process Control in Chemistry,,7,
+277,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Behavioral Economics,Behavioral Economics,,7
+278,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Materials Chemistry,,8,
+279,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Applied Environmental Chemistry,,8,
+280,202001000,Michael Alex Johnson,Science,Chemistry,U,BSCH,Construction Safety Management,Construction Safety Management,,8
+281,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Performance Art,,1,
+282,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Print Design,,1,
+283,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Public Art,,1,
+284,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Fashion Design,,1,
+285,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Photography,,1,
+286,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Art History,,1,
+287,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Contemporary Art,,2,
+288,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Printmaking,,2,
+289,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Ceramics,,2,
+290,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Sculpture,,2,
+291,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Photography Techniques,,2,
+292,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Studio Art,,2,
+293,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Art and Architecture,,2,
+294,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Color Theory,,2,
+295,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Art in the 21st Century,,2,
+296,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Art and Technology,,2,
+297,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Philosophy of Literature,Philosophy of Literature,,2
+298,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Combustion Engineering,Combustion Engineering,,2
+299,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Rocketry,Rocketry,,2
+300,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Digital Art,,3,
+301,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Graphic Design,,3,
+302,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Painting,,3,
+303,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Visual Art and Society,,3,
+304,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Art and Culture,,3,
+305,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Modern Art,,3,
+306,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Museum Studies,,3,
+307,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Installation Art,,3,
+308,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Fine Art Foundations,,3,
+309,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Film and Media Arts,,3,
+310,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Art Exhibitions,,3,
+311,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Art Education,,3,
+312,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Biochemistry,Biochemistry,,3
+313,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Biology of Aging,Biology of Aging,,3
+314,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Modern Poetry,Modern Poetry,,3
+315,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Art Theory,,4,
+316,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Art Criticism,,4,
+317,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Drawing,,4,
+318,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Mixed Media Art,,4,
+319,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Financial Markets,Financial Markets,,4
+320,201305000,Jane Jordan Martinez,Arts,Fine Arts,G,MSFA,Soil Mechanics,Soil Mechanics,,4
+321,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Music Therapy,,8,
+322,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Sound Design,,4,
+323,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Advanced Geotechnical Engineering,Advanced Geotechnical Engineering,,1
+324,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Brass and Woodwind Studies,,8,
+325,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Music and Society,,7,
+326,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Opera,,7,
+327,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Plant Physiology,Plant Physiology,,2
+328,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Choral Conducting,,8,
+329,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Music Composition for Film,,5,
+330,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Composition,,2,
+331,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Music Performance,,8,
+332,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Percussion Studies,,6,
+333,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Ethnomusicology,,6,
+334,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Music Pedagogy,,4,
+335,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Popular Music Studies,,5,
+336,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Music Education,,4,
+337,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Songwriting,,2,
+338,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Music History,,3,
+339,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Musical Theatre,,8,
+340,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,String Studies,,1,
+341,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Advanced Music Theory,,7,
+342,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Conducting,,5,
+343,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Classical Music Appreciation,,8,
+344,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Music Technology,,2,
+345,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Urban Economics,Urban Economics,,6
+346,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Orchestration,,6,
+347,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Electronic Music Production,,6,
+348,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Instrumental Performance,,6,
+349,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Digital Music Production,,2,
+350,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Control and Guidance Systems,Control and Guidance Systems,,7
+351,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Art Exhibitions,Art Exhibitions,,7
+352,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Electronics for Physicists,Electronics for Physicists,,7
+353,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Music Theory,,4,
+354,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Vocal Performance,,2,
+355,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Jazz Studies,,8,
+356,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,World Music,,2,
+357,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Optics,Optics,,8
+358,201606000,Michael Morgan Clark,Arts,Music,D,PhDMU,Theatre History,Theatre History,,8
+359,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,String Studies,,1,
+360,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Human Anatomy,Human Anatomy,,1
+361,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Digital Music Production,,2,
+362,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Vocal Performance,,2,
+363,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,World Music,,2,
+364,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Music Technology,,2,
+365,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Songwriting,,2,
+366,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Composition,,2,
+367,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Astronautics,Astronautics,,2
+368,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Marine Biology,Marine Biology,,2
+369,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Music History,,3,
+370,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Gender and Literature,Gender and Literature,,3
+371,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Music Education,,4,
+372,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Music Pedagogy,,4,
+373,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Sound Design,,4,
+374,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Music Theory,,4,
+375,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Music Composition for Film,,5,
+376,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Popular Music Studies,,5,
+377,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Conducting,,5,
+378,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Organizational Behavior,Organizational Behavior,,5
+379,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Economics of Innovation,Economics of Innovation,,5
+380,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Percussion Studies,,6,
+381,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Electronic Music Production,,6,
+382,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Ethnomusicology,,6,
+383,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Instrumental Performance,,6,
+384,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Orchestration,,6,
+385,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Opera,,7,
+386,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Advanced Music Theory,,7,
+387,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Music and Society,,7,
+388,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Marketing Research,Marketing Research,,7
+389,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Music Performance,,8,
+390,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Jazz Studies,,8,
+391,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Classical Music Appreciation,,8,
+392,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Brass and Woodwind Studies,,8,
+393,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Music Therapy,,8,
+394,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Musical Theatre,,8,
+395,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Choral Conducting,,8,
+396,201606000,Michael Morgan Clark,Arts,Music,U,BSMU,Microbial Ecology,Microbial Ecology,,8
+397,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Sculpture,,2,
+398,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Art History,,2,
+399,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Film and Media Arts,,4,
+400,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Color Theory,,2,
+401,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Painting,,2,
+402,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Performance Art,,4,
+403,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Chemical Thermodynamics,Chemical Thermodynamics,,1
+404,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Nanomaterials,Nanomaterials,,1
+405,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Art in the 21st Century,,4,
+406,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Mixed Media Art,,2,
+407,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Art and Technology,,1,
+408,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Photography,,1,
+409,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Visual Art and Society,,1,
+410,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Biotechnology,Biotechnology,,2
+411,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Contemporary Art,,1,
+412,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Art Criticism,,3,
+413,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Applied Environmental Chemistry,Applied Environmental Chemistry,,3
+414,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Art Education,,4,
+415,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Art Theory,,2,
+416,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Printmaking,,3,
+417,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Print Design,,3,
+418,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Fashion Design,,3,
+419,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Photography Techniques,,2,
+420,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Art and Architecture,,2,
+421,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Fine Art Foundations,,3,
+422,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Corporate Social Responsibility,Corporate Social Responsibility,,2
+423,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Digital Art,,2,
+424,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Installation Art,,2,
+425,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Public Art,,3,
+426,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Museum Studies,,1,
+427,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Marine Biology,Marine Biology,,5
+428,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Corporate Finance,Corporate Finance,,5
+429,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Ceramics,,3,
+430,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Art and Culture,,4,
+431,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Modern Art,,1,
+432,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Drawing,,1,
+433,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Tunneling and Underground Engineering,Tunneling and Underground Engineering,,6
+434,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Art Exhibitions,,4,
+435,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Studio Art,,2,
+436,201201000,Emily Jordan Garcia,Arts,Fine Arts,D,PhDFA,Graphic Design,,1,
+437,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Modern Art,,1,
+438,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Museum Studies,,1,
+439,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Art and Technology,,1,
+440,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Photography,,1,
+441,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Graphic Design,,1,
+442,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Drawing,,1,
+443,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Visual Art and Society,,1,
+444,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Contemporary Art,,1,
+445,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Science Fiction,Science Fiction,,1
+446,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Mixed Media Art,,2,
+447,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Painting,,2,
+448,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Studio Art,,2,
+449,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Photography Techniques,,2,
+450,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Color Theory,,2,
+451,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Art Theory,,2,
+452,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Installation Art,,2,
+453,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Digital Art,,2,
+454,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Art History,,2,
+455,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Art and Architecture,,2,
+456,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Sculpture,,2,
+457,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Electronic Music Production,Electronic Music Production,,2
+458,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Comparative Literature,Comparative Literature,,2
+459,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Corporate Social Responsibility,Corporate Social Responsibility,,2
+460,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Strength of Materials,Strength of Materials,,2
+461,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Laboratory Techniques,Laboratory Techniques,,2
+462,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Print Design,,3,
+463,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Art Criticism,,3,
+464,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Printmaking,,3,
+465,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Ceramics,,3,
+466,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Public Art,,3,
+467,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Fine Art Foundations,,3,
+468,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Fashion Design,,3,
+469,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Satellite Systems,Satellite Systems,,3
+470,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Art in the 21st Century,,4,
+471,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Film and Media Arts,,4,
+472,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Art and Culture,,4,
+473,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Performance Art,,4,
+474,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Art Education,,4,
+475,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,Art Exhibitions,,4,
+476,201201000,Emily Jordan Garcia,Arts,Fine Arts,G,MSFA,English Literature,English Literature,,4
+477,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Regional Economics,,1,
+478,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Macroeconomics,,1,
+479,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Economics of Technology,,2,
+480,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Monetary Economics,,2,
+481,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Financial Crises,,2,
+482,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Environmental Economics,,2,
+483,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Agricultural Economics,,2,
+484,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Geotechnical Site Investigation,Geotechnical Site Investigation,,2
+485,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Economics of Innovation,,3,
+486,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Investment Theory,,5,
+487,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Economics of Health Policy,,5,
+488,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Market Structures,,5,
+489,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Avionics,Avionics,,5
+490,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Quantum Mechanics,Quantum Mechanics,,5
+491,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Industrial Organization,,6,
+492,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Health Economics,,7,
+493,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Urban Economics,,7,
+494,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Game Theory,,7,
+495,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Advanced Microeconomics,,8,
+496,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Microeconomics,,8,
+497,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Managerial Accounting,Managerial Accounting,,8
+498,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Global Trade,,9,
+499,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Political Economy,,9,
+500,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Manufacturing Processes,Manufacturing Processes,,9
+501,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Economic Development,,10,
+502,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Public Economics,,10,
+503,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Behavioral Economics,,10,
+504,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Vibration Analysis,Vibration Analysis,,10
+505,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,International Economics,,11,
+506,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Systems Biology,Systems Biology,,11
+507,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Economics of Education,,12,
+508,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Financial Economics,,12,
+509,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Managerial Economics,,12,
+510,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Econometrics,,13,
+511,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Labor Economics,,13,
+512,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Development Economics,,14,
+513,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Economics of Inequality,,14,
+514,201906000,Jane Hayden Smith,Business,Economics,D,PhDEC,Finite Element Analysis,Finite Element Analysis,,14
+515,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Flight Simulation,,1,
+516,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Machine Elements,Machine Elements,,1
+517,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Navigation Systems,,2,
+518,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Aerodynamics,,2,
+519,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Aircraft Design,,3,
+520,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Orchestration,Orchestration,,3
+521,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Advanced Materials for Aerospace,,4,
+522,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Control Systems,,4,
+523,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Propulsion Systems,,4,
+524,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Unmanned Aerial Vehicles,,4,
+525,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Control and Guidance Systems,,4,
+526,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Rocketry,,4,
+527,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Economic Development,Economic Development,,4
+528,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Photochemistry,Photochemistry,,4
+529,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Space Robotics,,5,
+530,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Avionics,,5,
+531,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Aircraft Structures,,5,
+532,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Flight Mechanics,,6,
+533,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Space Exploration,,6,
+534,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Aircraft Maintenance,,7,
+535,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Aircraft Performance,,7,
+536,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Combustion Engineering,,7,
+537,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Spacecraft Design,,7,
+538,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Systems Engineering for Aerospace,,7,
+539,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Wind Tunnel Testing,,7,
+540,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Astronautics,,7,
+541,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Regional Economics,Regional Economics,,7
+542,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Building Information Modeling (BIM),Building Information Modeling (BIM),,7
+543,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Satellite Systems,,8,
+544,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Fluid Dynamics,,8,
+545,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Space Systems Engineering,,8,
+546,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Corporate Governance,Corporate Governance,,8
+547,201508000,Sophia Reese Miller,Engineering,Aerospace Engineering,G,MSAE,Chemical Safety,Chemical Safety,,8
+548,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Art and Technology,,8,
+549,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Print Design,,5,
+550,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Advanced Microeconomics,Advanced Microeconomics,,1
+551,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Economic Development,Economic Development,,1
+552,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Ceramics,,7,
+553,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Investment Theory,Investment Theory,,4
+554,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Art Criticism,,4,
+555,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Art in the 21st Century,,1,
+556,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Art Exhibitions,,6,
+557,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Fine Art Foundations,,8,
+558,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Color Theory,,7,
+559,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Digital Art,,2,
+560,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Performance Art,,3,
+561,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Photography Techniques,,4,
+562,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Plant Biology,Plant Biology,,6
+563,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Sculpture,,4,
+564,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Visual Art and Society,,4,
+565,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Painting,,4,
+566,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Drawing,,1,
+567,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Art Theory,,4,
+568,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Biology of Aging,Biology of Aging,,8
+569,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Public Art,,7,
+570,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Graphic Design,,8,
+571,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Film and Media Arts,,7,
+572,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Art History,,8,
+573,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Photography,,8,
+574,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Mixed Media Art,,5,
+575,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Art and Architecture,,8,
+576,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Studio Art,,3,
+577,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Contemporary Art,,1,
+578,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Modern Poetry,Modern Poetry,,11
+579,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Art Education,,1,
+580,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Bioinformatics,Bioinformatics,,12
+581,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Printmaking,,8,
+582,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Fashion Design,,4,
+583,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Installation Art,,2,
+584,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Green Chemistry,Green Chemistry,,13
+585,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Museum Studies,,1,
+586,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Art and Culture,,5,
+587,201603000,Sophia Taylor Martinez,Arts,Fine Arts,D,PhDFA,Modern Art,,4,
+588,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Public Art,,7,
+589,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Museum Studies,,1,
+590,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Sculpture,,4,
+591,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Printmaking,,8,
+592,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Art Education,,1,
+593,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Graphic Design,,8,
+594,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Visual Art and Society,,4,
+595,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Fashion Design,,4,
+596,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Film and Media Arts,,7,
+597,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Painting,,4,
+598,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Modern Art,,4,
+599,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Studio Art,,3,
+600,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Art Exhibitions,,6,
+601,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Ceramics,,7,
+602,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Chemical Safety,Chemical Safety,,2
+603,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,World Literature,World Literature,,2
+604,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Microbiology,Microbiology,,2
+605,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Drawing,,1,
+606,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Fine Art Foundations,,8,
+607,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Art Theory,,4,
+608,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Art and Technology,,8,
+609,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Art in the 21st Century,,1,
+610,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Business Law,Business Law,,3
+611,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Contemporary Fiction,Contemporary Fiction,,3
+612,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,History of English Language,History of English Language,,3
+613,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Installation Art,,2,
+614,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Performance Art,,3,
+615,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Digital Art,,2,
+616,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Art Criticism,,4,
+617,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Business Ethics,Business Ethics,,4
+618,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Art and Architecture,,8,
+619,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Mixed Media Art,,5,
+620,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Art History,,8,
+621,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Color Theory,,7,
+622,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Contemporary Art,,1,
+623,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Photography,,8,
+624,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Photography Techniques,,4,
+625,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Print Design,,5,
+626,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Art and Culture,,5,
+627,201603000,Sophia Taylor Martinez,Arts,Fine Arts,G,MSFA,Solid-State Chemistry,Solid-State Chemistry,,5
+628,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Art Education,,1,
+629,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Drawing,,1,
+630,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Contemporary Art,,1,
+631,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Art in the 21st Century,,1,
+632,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Museum Studies,,1,
+633,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Songwriting,Songwriting,,1
+634,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Aircraft Performance,Aircraft Performance,,1
+635,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Digital Art,,2,
+636,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Installation Art,,2,
+637,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Studio Art,,3,
+638,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Performance Art,,3,
+639,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Painting,,4,
+640,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Art Criticism,,4,
+641,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Fashion Design,,4,
+642,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Sculpture,,4,
+643,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Visual Art and Society,,4,
+644,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Photography Techniques,,4,
+645,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Art Theory,,4,
+646,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Modern Art,,4,
+647,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,General Biology,General Biology,,4
+648,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Foundation Engineering,Foundation Engineering,,4
+649,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Art and Culture,,5,
+650,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Print Design,,5,
+651,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Mixed Media Art,,5,
+652,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Music and Society,Music and Society,,5
+653,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Art Exhibitions,,6,
+654,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Film and Media Arts,,7,
+655,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Public Art,,7,
+656,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Color Theory,,7,
+657,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Ceramics,,7,
+658,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Traffic Flow Analysis,Traffic Flow Analysis,,7
+659,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Graphic Design,,8,
+660,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Fine Art Foundations,,8,
+661,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Art and Architecture,,8,
+662,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Art and Technology,,8,
+663,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Photography,,8,
+664,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Printmaking,,8,
+665,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Art History,,8,
+666,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Animal Behavior,Animal Behavior,,8
+667,201603000,Sophia Taylor Martinez,Arts,Fine Arts,U,BSFA,Instrumental Performance,Instrumental Performance,,8
+668,201708000,David Alex Jones,Science,Biology,D,PhDBI,Microbial Ecology,,1,
+669,201708000,David Alex Jones,Science,Biology,D,PhDBI,Molecular Genetics,,1,
+670,201708000,David Alex Jones,Science,Biology,D,PhDBI,Managerial Accounting,Managerial Accounting,,1
+671,201708000,David Alex Jones,Science,Biology,D,PhDBI,Environmental Biology,,2,
+672,201708000,David Alex Jones,Science,Biology,D,PhDBI,Neurobiology,,3,
+673,201708000,David Alex Jones,Science,Biology,D,PhDBI,Plant Biology,,3,
+674,201708000,David Alex Jones,Science,Biology,D,PhDBI,Forensic Biology,,3,
+675,201708000,David Alex Jones,Science,Biology,D,PhDBI,Cancer Biology,,3,
+676,201708000,David Alex Jones,Science,Biology,D,PhDBI,Hydrology,Hydrology,,3
+677,201708000,David Alex Jones,Science,Biology,D,PhDBI,Literary Theory,Literary Theory,,3
+678,201708000,David Alex Jones,Science,Biology,D,PhDBI,Bioinformatics,,4,
+679,201708000,David Alex Jones,Science,Biology,D,PhDBI,Marine Biology,,4,
+680,201708000,David Alex Jones,Science,Biology,D,PhDBI,Pharmacology,,4,
+681,201708000,David Alex Jones,Science,Biology,D,PhDBI,Construction Management,Construction Management,,4
+682,201708000,David Alex Jones,Science,Biology,D,PhDBI,Ecology,,5,
+683,201708000,David Alex Jones,Science,Biology,D,PhDBI,Developmental Biology,,5,
+684,201708000,David Alex Jones,Science,Biology,D,PhDBI,Physiology,,5,
+685,201708000,David Alex Jones,Science,Biology,D,PhDBI,Genomics,,5,
+686,201708000,David Alex Jones,Science,Biology,D,PhDBI,Advanced Structural Analysis,Advanced Structural Analysis,,5
+687,201708000,David Alex Jones,Science,Biology,D,PhDBI,Immunology,,6,
+688,201708000,David Alex Jones,Science,Biology,D,PhDBI,Biology of Aging,,6,
+689,201708000,David Alex Jones,Science,Biology,D,PhDBI,Economics of Inequality,Economics of Inequality,,6
+690,201708000,David Alex Jones,Science,Biology,D,PhDBI,Endocrinology,,7,
+691,201708000,David Alex Jones,Science,Biology,D,PhDBI,Biological Chemistry,,7,
+692,201708000,David Alex Jones,Science,Biology,D,PhDBI,Human Anatomy,,7,
+693,201708000,David Alex Jones,Science,Biology,D,PhDBI,Evolutionary Ecology,,7,
+694,201708000,David Alex Jones,Science,Biology,D,PhDBI,Biotechnology in Agriculture,,8,
+695,201708000,David Alex Jones,Science,Biology,D,PhDBI,Molecular Biology,,8,
+696,201708000,David Alex Jones,Science,Biology,D,PhDBI,Genetics,,8,
+697,201708000,David Alex Jones,Science,Biology,D,PhDBI,Bioethics,,8,
+698,201708000,David Alex Jones,Science,Biology,D,PhDBI,Biotechnology,,9,
+699,201708000,David Alex Jones,Science,Biology,D,PhDBI,Computational Biology,,9,
+700,201708000,David Alex Jones,Science,Biology,D,PhDBI,Structural Biology,,9,
+701,201708000,David Alex Jones,Science,Biology,D,PhDBI,Evolutionary Biology,,9,
+702,201708000,David Alex Jones,Science,Biology,D,PhDBI,Cell Biology,,10,
+703,201708000,David Alex Jones,Science,Biology,D,PhDBI,Bioengineering,,10,
+704,201708000,David Alex Jones,Science,Biology,D,PhDBI,Microbiology,,10,
+705,201708000,David Alex Jones,Science,Biology,D,PhDBI,Animal Behavior,,10,
+706,201708000,David Alex Jones,Science,Biology,D,PhDBI,Advanced Music Theory,Advanced Music Theory,,10
+707,201708000,David Alex Jones,Science,Biology,D,PhDBI,Business Law,Business Law,,10

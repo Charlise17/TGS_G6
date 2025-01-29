@@ -1,0 +1,81 @@
+Level,Degree,Term,coursename,courseID,courseType,credithours,grade
+G,MSCH,1,Chemical Bonding,CHE864,Major,3,100
+G,MSCH,1,Advanced Organic Synthesis,ADV994,Major,3,94
+G,MSCH,1,Catalysis,CAT226,Major,1,78
+G,MSCH,1,Chemical Toxicology,CHE686,Major,3,84
+G,MSCH,1,Chemical Data Analysis,CHE117,Major,3,82
+G,MSCH,2,Solid-State Chemistry,SOL555,Major,2,83
+G,MSCH,2,Analytical Chemistry,ANA809,Major,1,83
+G,MSCH,2,Microbiology,MIC616,Minor,2,87
+G,MSCH,2,Digital Art,DIG988,Minor,1,98
+G,MSCH,3,Surface Chemistry,SUR772,Major,2,83
+G,MSCH,3,Computational Chemistry,COM319,Major,4,83
+G,MSCH,3,Chemical Engineering Principles,CHE528,Major,1,77
+G,MSCH,3,Quantum Chemistry,QUA648,Major,4,80
+G,MSCH,3,Organic Chemistry,ORG435,Major,2,98
+G,MSCH,3,Photochemistry,PHO626,Major,1,96
+G,MSCH,4,Environmental Chemistry,ENV640,Major,4,77
+G,MSCH,4,Laboratory Techniques,LAB334,Major,2,81
+G,MSCH,4,Reaction Mechanisms,REA706,Major,4,82
+G,MSCH,4,Electrochemistry,ELE828,Major,4,77
+G,MSCH,5,Chemical Kinetics,CHE760,Major,2,79
+G,MSCH,5,Inorganic Chemistry,INO382,Major,2,97
+G,MSCH,5,Industrial Chemistry,IND788,Major,1,95
+G,MSCH,5,Water Chemistry,WAT716,Major,1,92
+G,MSCH,5,Biotechnology in Agriculture,BIO184,Minor,4,85
+G,MSCH,5,Financial Accounting,FIN269,Minor,2,89
+G,MSCH,5,Music Therapy,MUS160,Minor,4,85
+G,MSCH,6,Applied Environmental Chemistry,APP618,Major,2,88
+G,MSCH,6,General Chemistry,GEN942,Major,3,75
+G,MSCH,6,Instrumental Analysis,INS846,Major,4,100
+G,MSCH,6,Engineering Dynamics,ENG545,Minor,4,100
+G,MSCH,6,Animal Behavior,ANI495,Minor,1,99
+G,MSCH,7,Biochemistry,BIO255,Major,1,88
+G,MSCH,7,Physical Chemistry,PHY543,Major,3,84
+G,MSCH,7,Chemical Thermodynamics,CHE304,Major,3,80
+G,MSCH,7,Chemical Safety,CHE935,Major,2,91
+G,MSCH,7,Econometrics,ECO503,Minor,4,88
+G,MSCH,8,Medicinal Chemistry,MED148,Major,4,96
+G,MSCH,8,Process Control in Chemistry,PRO501,Major,2,79
+G,MSCH,8,Materials Chemistry,MAT531,Major,2,82
+G,MSCH,8,Nano-Chemistry,NAN894,Major,3,92
+U,BSCH,1,Chemical Kinetics,CHE877,Major,1,94
+U,BSCH,1,Instrumental Analysis,INS701,Major,1,93
+U,BSCH,1,Reaction Mechanisms,REA829,Major,2,89
+U,BSCH,1,Installation Art,INS447,Minor,1,95
+U,BSCH,2,Solid-State Chemistry,SOL725,Major,3,79
+U,BSCH,2,Electrochemistry,ELE411,Major,1,97
+U,BSCH,2,Organometallic Chemistry,ORG243,Major,3,99
+U,BSCH,2,Advanced Materials for Construction,ADV471,Minor,3,92
+U,BSCH,3,Medicinal Chemistry,MED589,Major,4,85
+U,BSCH,3,Computational Chemistry,COM804,Major,3,75
+U,BSCH,3,Analytical Chemistry,ANA946,Major,4,78
+U,BSCH,3,Organic Chemistry,ORG486,Major,4,92
+U,BSCH,3,Art and Architecture,ART579,Minor,2,94
+U,BSCH,3,Astronautics,AST641,Minor,2,88
+U,BSCH,4,Advanced Organic Synthesis,ADV528,Major,2,81
+U,BSCH,4,General Chemistry,GEN514,Major,4,94
+U,BSCH,4,Pharmaceutical Chemistry,PHA309,Major,4,81
+U,BSCH,4,Environmental Chemistry,ENV869,Major,3,76
+U,BSCH,4,Chemical Safety,CHE359,Major,4,96
+U,BSCH,4,World Literature,WOR852,Minor,1,79
+U,BSCH,5,Industrial Chemistry,IND857,Major,3,87
+U,BSCH,5,Quantum Chemistry,QUA331,Major,2,94
+U,BSCH,5,Physical Chemistry,PHY780,Major,1,96
+U,BSCH,5,Laboratory Techniques,LAB167,Major,3,87
+U,BSCH,5,Chemical Thermodynamics,CHE818,Major,2,83
+U,BSCH,5,Visual Art and Society,VIS931,Minor,2,92
+U,BSCH,6,Chemical Toxicology,CHE310,Major,4,83
+U,BSCH,6,Surface Chemistry,SUR476,Major,1,98
+U,BSCH,6,Photochemistry,PHO928,Major,2,99
+U,BSCH,6,Inorganic Chemistry,INO571,Major,3,86
+U,BSCH,6,Catalysis,CAT685,Major,1,75
+U,BSCH,7,Polymer Chemistry,POL528,Major,2,78
+U,BSCH,7,Green Chemistry,GRE653,Major,3,81
+U,BSCH,7,Chemical Bonding,CHE242,Major,2,80
+U,BSCH,7,Nano-Chemistry,NAN471,Major,4,83
+U,BSCH,7,Process Control in Chemistry,PRO209,Major,1,83
+U,BSCH,7,Behavioral Economics,BEH962,Minor,2,94
+U,BSCH,8,Materials Chemistry,MAT507,Major,4,91
+U,BSCH,8,Applied Environmental Chemistry,APP127,Major,3,99
+U,BSCH,8,Construction Safety Management,CON446,Minor,2,86

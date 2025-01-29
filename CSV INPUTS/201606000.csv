@@ -1,0 +1,77 @@
+Level,Degree,Term,coursename,courseID,courseType,credithours,grade
+D,PhDMU,1,Music Therapy,MUS440,Major,1,96
+D,PhDMU,1,Sound Design,SOU724,Major,4,85
+D,PhDMU,1,Advanced Geotechnical Engineering,ADV445,Minor,2,78
+D,PhDMU,2,Brass and Woodwind Studies,BRA337,Major,2,97
+D,PhDMU,2,Music and Society,MUS426,Major,1,87
+D,PhDMU,2,Opera,OPE248,Major,4,80
+D,PhDMU,2,Plant Physiology,PLA833,Minor,2,90
+D,PhDMU,3,Choral Conducting,CHO140,Major,1,81
+D,PhDMU,3,Music Composition for Film,MUS950,Major,1,94
+D,PhDMU,4,Composition,COM700,Major,1,86
+D,PhDMU,4,Music Performance,MUS127,Major,2,85
+D,PhDMU,4,Percussion Studies,PER186,Major,3,87
+D,PhDMU,4,Ethnomusicology,ETH605,Major,2,85
+D,PhDMU,4,Music Pedagogy,MUS403,Major,2,96
+D,PhDMU,4,Popular Music Studies,POP231,Major,2,88
+D,PhDMU,5,Music Education,MUS779,Major,3,75
+D,PhDMU,5,Songwriting,SON946,Major,1,82
+D,PhDMU,5,Music History,MUS300,Major,2,82
+D,PhDMU,5,Musical Theatre,MUS516,Major,4,75
+D,PhDMU,5,String Studies,STR477,Major,1,77
+D,PhDMU,6,Advanced Music Theory,ADV712,Major,3,83
+D,PhDMU,6,Conducting,CON342,Major,4,96
+D,PhDMU,6,Classical Music Appreciation,CLA214,Major,1,100
+D,PhDMU,6,Music Technology,MUS167,Major,1,99
+D,PhDMU,6,Urban Economics,URB604,Minor,4,99
+D,PhDMU,7,Orchestration,ORC670,Major,1,81
+D,PhDMU,7,Electronic Music Production,ELE135,Major,3,95
+D,PhDMU,7,Instrumental Performance,INS315,Major,2,76
+D,PhDMU,7,Digital Music Production,DIG301,Major,1,91
+D,PhDMU,7,Control and Guidance Systems,CON383,Minor,3,94
+D,PhDMU,7,Art Exhibitions,ART418,Minor,2,75
+D,PhDMU,7,Electronics for Physicists,ELE538,Minor,3,89
+D,PhDMU,8,Music Theory,MUS707,Major,1,78
+D,PhDMU,8,Vocal Performance,VOC486,Major,2,93
+D,PhDMU,8,Jazz Studies,JAZ866,Major,4,98
+D,PhDMU,8,World Music,WOR331,Major,1,89
+D,PhDMU,8,Optics,OPT886,Minor,3,84
+D,PhDMU,8,Theatre History,THE413,Minor,2,79
+U,BSMU,1,String Studies,STR594,Major,2,99
+U,BSMU,1,Human Anatomy,HUM747,Minor,2,87
+U,BSMU,2,Digital Music Production,DIG722,Major,3,85
+U,BSMU,2,Vocal Performance,VOC106,Major,1,86
+U,BSMU,2,World Music,WOR968,Major,1,81
+U,BSMU,2,Music Technology,MUS739,Major,1,100
+U,BSMU,2,Songwriting,SON420,Major,3,98
+U,BSMU,2,Composition,COM115,Major,4,80
+U,BSMU,2,Astronautics,AST437,Minor,2,97
+U,BSMU,2,Marine Biology,MAR219,Minor,1,90
+U,BSMU,3,Music History,MUS674,Major,4,88
+U,BSMU,3,Gender and Literature,GEN773,Minor,3,90
+U,BSMU,4,Music Education,MUS265,Major,1,93
+U,BSMU,4,Music Pedagogy,MUS478,Major,3,77
+U,BSMU,4,Sound Design,SOU413,Major,4,94
+U,BSMU,4,Music Theory,MUS960,Major,3,99
+U,BSMU,5,Music Composition for Film,MUS583,Major,1,96
+U,BSMU,5,Popular Music Studies,POP902,Major,1,94
+U,BSMU,5,Conducting,CON121,Major,2,91
+U,BSMU,5,Organizational Behavior,ORG757,Minor,2,98
+U,BSMU,5,Economics of Innovation,ECO184,Minor,4,88
+U,BSMU,6,Percussion Studies,PER356,Major,4,85
+U,BSMU,6,Electronic Music Production,ELE889,Major,4,98
+U,BSMU,6,Ethnomusicology,ETH241,Major,3,75
+U,BSMU,6,Instrumental Performance,INS452,Major,2,83
+U,BSMU,6,Orchestration,ORC515,Major,3,83
+U,BSMU,7,Opera,OPE290,Major,2,77
+U,BSMU,7,Advanced Music Theory,ADV575,Major,3,100
+U,BSMU,7,Music and Society,MUS231,Major,4,98
+U,BSMU,7,Marketing Research,MAR514,Minor,2,86
+U,BSMU,8,Music Performance,MUS781,Major,4,83
+U,BSMU,8,Jazz Studies,JAZ649,Major,4,83
+U,BSMU,8,Classical Music Appreciation,CLA325,Major,1,100
+U,BSMU,8,Brass and Woodwind Studies,BRA910,Major,1,98
+U,BSMU,8,Music Therapy,MUS103,Major,3,98
+U,BSMU,8,Musical Theatre,MUS401,Major,1,91
+U,BSMU,8,Choral Conducting,CHO567,Major,1,94
+U,BSMU,8,Microbial Ecology,MIC299,Minor,4,100

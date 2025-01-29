@@ -1,0 +1,121 @@
+Level,Degree,Term,coursename,courseID,courseType,credithours,grade
+D,PhDFA,1,Art and Technology,ART634,Major,1,85
+D,PhDFA,1,Print Design,PRI209,Major,4,86
+D,PhDFA,1,Advanced Microeconomics,ADV171,Minor,1,76
+D,PhDFA,1,Economic Development,ECO341,Minor,2,94
+D,PhDFA,2,Ceramics,CER331,Major,1,79
+D,PhDFA,4,Investment Theory,INV569,Minor,1,93
+D,PhDFA,5,Art Criticism,ART991,Major,3,90
+D,PhDFA,5,Art in the 21st Century,ART568,Major,3,90
+D,PhDFA,6,Art Exhibitions,ART479,Major,2,92
+D,PhDFA,6,Fine Art Foundations,FIN448,Major,4,88
+D,PhDFA,6,Color Theory,COL246,Major,4,80
+D,PhDFA,6,Digital Art,DIG978,Major,2,93
+D,PhDFA,6,Performance Art,PER164,Major,1,83
+D,PhDFA,6,Photography Techniques,PHO971,Major,1,89
+D,PhDFA,6,Plant Biology,PLA832,Minor,1,78
+D,PhDFA,7,Sculpture,SCU354,Major,2,98
+D,PhDFA,8,Visual Art and Society,VIS683,Major,3,100
+D,PhDFA,8,Painting,PAI917,Major,1,87
+D,PhDFA,8,Drawing,DRA376,Major,3,85
+D,PhDFA,8,Art Theory,ART775,Major,2,76
+D,PhDFA,8,Biology of Aging,BIO131,Minor,3,85
+D,PhDFA,9,Public Art,PUB551,Major,2,76
+D,PhDFA,9,Graphic Design,GRA880,Major,4,76
+D,PhDFA,9,Film and Media Arts,FIL966,Major,4,85
+D,PhDFA,9,Art History,ART620,Major,3,81
+D,PhDFA,9,Photography,PHO952,Major,3,83
+D,PhDFA,9,Mixed Media Art,MIX593,Major,1,84
+D,PhDFA,10,Art and Architecture,ART416,Major,4,87
+D,PhDFA,10,Studio Art,STU518,Major,3,85
+D,PhDFA,11,Contemporary Art,CON106,Major,4,93
+D,PhDFA,11,Modern Poetry,MOD290,Minor,1,88
+D,PhDFA,12,Art Education,ART182,Major,4,88
+D,PhDFA,12,Bioinformatics,BIO164,Minor,1,83
+D,PhDFA,13,Printmaking,PRI579,Major,4,97
+D,PhDFA,13,Fashion Design,FAS998,Major,3,89
+D,PhDFA,13,Installation Art,INS828,Major,3,99
+D,PhDFA,13,Green Chemistry,GRE604,Minor,4,77
+D,PhDFA,14,Museum Studies,MUS191,Major,1,80
+D,PhDFA,14,Art and Culture,ART945,Major,1,93
+D,PhDFA,14,Modern Art,MOD253,Major,4,100
+G,MSFA,1,Public Art,PUB679,Major,2,99
+G,MSFA,1,Museum Studies,MUS209,Major,3,93
+G,MSFA,1,Sculpture,SCU563,Major,2,81
+G,MSFA,1,Printmaking,PRI263,Major,1,94
+G,MSFA,1,Art Education,ART447,Major,4,81
+G,MSFA,1,Graphic Design,GRA338,Major,3,99
+G,MSFA,2,Visual Art and Society,VIS966,Major,3,76
+G,MSFA,2,Fashion Design,FAS872,Major,3,93
+G,MSFA,2,Film and Media Arts,FIL779,Major,3,76
+G,MSFA,2,Painting,PAI321,Major,3,93
+G,MSFA,2,Modern Art,MOD141,Major,2,77
+G,MSFA,2,Studio Art,STU984,Major,2,100
+G,MSFA,2,Art Exhibitions,ART747,Major,1,93
+G,MSFA,2,Ceramics,CER225,Major,1,91
+G,MSFA,2,Chemical Safety,CHE598,Minor,3,97
+G,MSFA,2,World Literature,WOR727,Minor,2,84
+G,MSFA,2,Microbiology,MIC913,Minor,2,85
+G,MSFA,3,Drawing,DRA333,Major,1,89
+G,MSFA,3,Fine Art Foundations,FIN416,Major,2,83
+G,MSFA,3,Art Theory,ART205,Major,3,81
+G,MSFA,3,Art and Technology,ART124,Major,4,79
+G,MSFA,3,Art in the 21st Century,ART819,Major,2,89
+G,MSFA,3,Business Law,BUS314,Minor,3,99
+G,MSFA,3,Contemporary Fiction,CON176,Minor,4,79
+G,MSFA,3,History of English Language,HIS843,Minor,1,88
+G,MSFA,4,Installation Art,INS419,Major,2,89
+G,MSFA,4,Performance Art,PER116,Major,4,94
+G,MSFA,4,Digital Art,DIG896,Major,1,86
+G,MSFA,4,Art Criticism,ART556,Major,2,79
+G,MSFA,4,Business Ethics,BUS297,Minor,2,77
+G,MSFA,5,Art and Architecture,ART853,Major,1,83
+G,MSFA,5,Mixed Media Art,MIX351,Major,1,86
+G,MSFA,5,Art History,ART818,Major,3,96
+G,MSFA,5,Color Theory,COL560,Major,3,87
+G,MSFA,5,Contemporary Art,CON289,Major,2,94
+G,MSFA,5,Photography,PHO204,Major,1,95
+G,MSFA,5,Photography Techniques,PHO363,Major,3,89
+G,MSFA,5,Print Design,PRI381,Major,3,94
+G,MSFA,5,Art and Culture,ART540,Major,4,79
+G,MSFA,5,Solid-State Chemistry,SOL718,Minor,2,79
+U,BSFA,1,Art Education,ART341,Major,4,83
+U,BSFA,1,Drawing,DRA371,Major,2,88
+U,BSFA,1,Contemporary Art,CON450,Major,3,99
+U,BSFA,1,Art in the 21st Century,ART403,Major,3,76
+U,BSFA,1,Museum Studies,MUS107,Major,4,78
+U,BSFA,1,Songwriting,SON430,Minor,3,78
+U,BSFA,1,Aircraft Performance,AIR525,Minor,3,85
+U,BSFA,2,Digital Art,DIG459,Major,1,88
+U,BSFA,2,Installation Art,INS253,Major,2,98
+U,BSFA,3,Studio Art,STU983,Major,3,98
+U,BSFA,3,Performance Art,PER573,Major,2,90
+U,BSFA,4,Painting,PAI442,Major,4,96
+U,BSFA,4,Art Criticism,ART893,Major,3,92
+U,BSFA,4,Fashion Design,FAS911,Major,4,97
+U,BSFA,4,Sculpture,SCU155,Major,2,99
+U,BSFA,4,Visual Art and Society,VIS835,Major,4,97
+U,BSFA,4,Photography Techniques,PHO983,Major,3,81
+U,BSFA,4,Art Theory,ART974,Major,4,95
+U,BSFA,4,Modern Art,MOD815,Major,2,85
+U,BSFA,4,General Biology,GEN558,Minor,3,99
+U,BSFA,4,Foundation Engineering,FOU956,Minor,3,98
+U,BSFA,5,Art and Culture,ART266,Major,4,98
+U,BSFA,5,Print Design,PRI893,Major,3,92
+U,BSFA,5,Mixed Media Art,MIX980,Major,1,76
+U,BSFA,5,Music and Society,MUS674,Minor,3,89
+U,BSFA,6,Art Exhibitions,ART191,Major,3,99
+U,BSFA,7,Film and Media Arts,FIL227,Major,4,93
+U,BSFA,7,Public Art,PUB354,Major,4,91
+U,BSFA,7,Color Theory,COL682,Major,3,99
+U,BSFA,7,Ceramics,CER353,Major,3,92
+U,BSFA,7,Traffic Flow Analysis,TRA945,Minor,2,100
+U,BSFA,8,Graphic Design,GRA159,Major,4,84
+U,BSFA,8,Fine Art Foundations,FIN734,Major,4,76
+U,BSFA,8,Art and Architecture,ART477,Major,2,92
+U,BSFA,8,Art and Technology,ART291,Major,1,82
+U,BSFA,8,Photography,PHO830,Major,2,78
+U,BSFA,8,Printmaking,PRI629,Major,3,79
+U,BSFA,8,Art History,ART338,Major,4,76
+U,BSFA,8,Animal Behavior,ANI733,Minor,1,78
+U,BSFA,8,Instrumental Performance,INS885,Minor,3,80

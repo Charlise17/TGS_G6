@@ -1,0 +1,41 @@
+Level,Degree,Term,coursename,courseID,courseType,credithours,grade
+D,PhDBI,1,Microbial Ecology,MIC386,Major,2,95
+D,PhDBI,1,Molecular Genetics,MOL297,Major,1,83
+D,PhDBI,1,Managerial Accounting,MAN852,Minor,4,78
+D,PhDBI,2,Environmental Biology,ENV190,Major,4,83
+D,PhDBI,3,Neurobiology,NEU806,Major,4,84
+D,PhDBI,3,Plant Biology,PLA401,Major,3,93
+D,PhDBI,3,Forensic Biology,FOR187,Major,1,84
+D,PhDBI,3,Cancer Biology,CAN162,Major,3,84
+D,PhDBI,3,Hydrology,HYD527,Minor,4,77
+D,PhDBI,3,Literary Theory,LIT765,Minor,2,81
+D,PhDBI,4,Bioinformatics,BIO251,Major,2,99
+D,PhDBI,4,Marine Biology,MAR173,Major,4,83
+D,PhDBI,4,Pharmacology,PHA615,Major,2,80
+D,PhDBI,4,Construction Management,CON853,Minor,4,89
+D,PhDBI,5,Ecology,ECO909,Major,2,85
+D,PhDBI,5,Developmental Biology,DEV738,Major,1,93
+D,PhDBI,5,Physiology,PHY134,Major,3,90
+D,PhDBI,5,Genomics,GEN880,Major,3,82
+D,PhDBI,5,Advanced Structural Analysis,ADV136,Minor,1,99
+D,PhDBI,6,Immunology,IMM722,Major,2,88
+D,PhDBI,6,Biology of Aging,BIO934,Major,4,75
+D,PhDBI,6,Economics of Inequality,ECO584,Minor,2,81
+D,PhDBI,7,Endocrinology,END638,Major,4,98
+D,PhDBI,7,Biological Chemistry,BIO859,Major,4,85
+D,PhDBI,7,Human Anatomy,HUM334,Major,3,97
+D,PhDBI,7,Evolutionary Ecology,EVO289,Major,3,79
+D,PhDBI,8,Biotechnology in Agriculture,BIO824,Major,2,80
+D,PhDBI,8,Molecular Biology,MOL581,Major,2,77
+D,PhDBI,8,Genetics,GEN519,Major,1,76
+D,PhDBI,8,Bioethics,BIO898,Major,4,84
+D,PhDBI,9,Biotechnology,BIO314,Major,3,85
+D,PhDBI,9,Computational Biology,COM268,Major,1,75
+D,PhDBI,9,Structural Biology,STR443,Major,1,96
+D,PhDBI,9,Evolutionary Biology,EVO515,Major,2,92
+D,PhDBI,10,Cell Biology,CEL454,Major,2,77
+D,PhDBI,10,Bioengineering,BIO788,Major,4,93
+D,PhDBI,10,Microbiology,MIC163,Major,3,94
+D,PhDBI,10,Animal Behavior,ANI762,Major,2,84
+D,PhDBI,10,Advanced Music Theory,ADV582,Minor,4,85
+D,PhDBI,10,Business Law,BUS970,Minor,4,77

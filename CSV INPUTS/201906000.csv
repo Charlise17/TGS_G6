@@ -1,0 +1,39 @@
+Level,Degree,Term,coursename,courseID,courseType,credithours,grade
+D,PhDEC,1,Regional Economics,REG774,Major,1,81
+D,PhDEC,1,Macroeconomics,MAC351,Major,2,100
+D,PhDEC,2,Economics of Technology,ECO944,Major,3,78
+D,PhDEC,2,Monetary Economics,MON916,Major,2,80
+D,PhDEC,2,Financial Crises,FIN913,Major,1,96
+D,PhDEC,2,Environmental Economics,ENV828,Major,3,86
+D,PhDEC,2,Agricultural Economics,AGR959,Major,1,75
+D,PhDEC,2,Geotechnical Site Investigation,GEO779,Minor,4,94
+D,PhDEC,3,Economics of Innovation,ECO519,Major,1,79
+D,PhDEC,5,Investment Theory,INV140,Major,1,82
+D,PhDEC,5,Economics of Health Policy,ECO611,Major,4,89
+D,PhDEC,5,Market Structures,MAR366,Major,3,85
+D,PhDEC,5,Avionics,AVI525,Minor,3,92
+D,PhDEC,5,Quantum Mechanics,QUA135,Minor,1,94
+D,PhDEC,6,Industrial Organization,IND292,Major,2,84
+D,PhDEC,7,Health Economics,HEA614,Major,3,91
+D,PhDEC,7,Urban Economics,URB666,Major,4,82
+D,PhDEC,7,Game Theory,GAM968,Major,2,83
+D,PhDEC,8,Advanced Microeconomics,ADV649,Major,3,77
+D,PhDEC,8,Microeconomics,MIC266,Major,2,94
+D,PhDEC,8,Managerial Accounting,MAN499,Minor,4,96
+D,PhDEC,9,Global Trade,GLO916,Major,3,75
+D,PhDEC,9,Political Economy,POL182,Major,1,84
+D,PhDEC,9,Manufacturing Processes,MAN500,Minor,2,85
+D,PhDEC,10,Economic Development,ECO154,Major,2,100
+D,PhDEC,10,Public Economics,PUB638,Major,2,82
+D,PhDEC,10,Behavioral Economics,BEH684,Major,1,97
+D,PhDEC,10,Vibration Analysis,VIB110,Minor,4,88
+D,PhDEC,11,International Economics,INT269,Major,3,86
+D,PhDEC,11,Systems Biology,SYS407,Minor,1,93
+D,PhDEC,12,Economics of Education,ECO321,Major,1,87
+D,PhDEC,12,Financial Economics,FIN380,Major,1,83
+D,PhDEC,12,Managerial Economics,MAN636,Major,3,86
+D,PhDEC,13,Econometrics,ECO360,Major,4,96
+D,PhDEC,13,Labor Economics,LAB135,Major,3,80
+D,PhDEC,14,Development Economics,DEV240,Major,1,80
+D,PhDEC,14,Economics of Inequality,ECO395,Major,2,87
+D,PhDEC,14,Finite Element Analysis,FIN163,Minor,2,96

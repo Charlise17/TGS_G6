@@ -1,0 +1,34 @@
+Level,Degree,Term,coursename,courseID,courseType,credithours,grade
+G,MSAE,1,Flight Simulation,FLI411,Major,3,78
+G,MSAE,1,Machine Elements,MAC128,Minor,3,87
+G,MSAE,2,Navigation Systems,NAV737,Major,4,89
+G,MSAE,2,Aerodynamics,AER174,Major,4,88
+G,MSAE,3,Aircraft Design,AIR340,Major,2,92
+G,MSAE,3,Orchestration,ORC524,Minor,1,86
+G,MSAE,4,Advanced Materials for Aerospace,ADV130,Major,3,98
+G,MSAE,4,Control Systems,CON850,Major,3,78
+G,MSAE,4,Propulsion Systems,PRO787,Major,1,97
+G,MSAE,4,Unmanned Aerial Vehicles,UNM593,Major,4,96
+G,MSAE,4,Control and Guidance Systems,CON110,Major,4,80
+G,MSAE,4,Rocketry,ROC993,Major,2,91
+G,MSAE,4,Economic Development,ECO840,Minor,3,83
+G,MSAE,4,Photochemistry,PHO563,Minor,1,100
+G,MSAE,5,Space Robotics,SPA828,Major,1,77
+G,MSAE,5,Avionics,AVI264,Major,2,75
+G,MSAE,5,Aircraft Structures,AIR352,Major,2,99
+G,MSAE,6,Flight Mechanics,FLI961,Major,3,82
+G,MSAE,6,Space Exploration,SPA902,Major,2,87
+G,MSAE,7,Aircraft Maintenance,AIR965,Major,4,89
+G,MSAE,7,Aircraft Performance,AIR516,Major,2,84
+G,MSAE,7,Combustion Engineering,COM595,Major,2,88
+G,MSAE,7,Spacecraft Design,SPA837,Major,3,79
+G,MSAE,7,Systems Engineering for Aerospace,SYS228,Major,4,86
+G,MSAE,7,Wind Tunnel Testing,WIN893,Major,2,78
+G,MSAE,7,Astronautics,AST594,Major,3,84
+G,MSAE,7,Regional Economics,REG680,Minor,2,85
+G,MSAE,7,Building Information Modeling (BIM),BUI179,Minor,2,75
+G,MSAE,8,Satellite Systems,SAT970,Major,4,75
+G,MSAE,8,Fluid Dynamics,FLU267,Major,2,97
+G,MSAE,8,Space Systems Engineering,SPA941,Major,1,77
+G,MSAE,8,Corporate Governance,COR148,Minor,4,92
+G,MSAE,8,Chemical Safety,CHE748,Minor,2,87
